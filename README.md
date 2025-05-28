@@ -65,8 +65,21 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Active-Directory-Administrative-Center-Enable-Active-Directory-Recycle-Bin-For-A-Forest">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Administrative Center – Enable Active Directory Recycle Bin</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Administrative Center (ADUC) – Enable Active Directory Recycle Bin</strong>
   </a>
   <br/>
 </li>
 </ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/ADUC-Create-A-New-User-Account-With-The-Same-Settings-As-Another-User">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Create A New User Account With The Same Settings As Another User</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+
