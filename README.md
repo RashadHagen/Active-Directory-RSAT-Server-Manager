@@ -14,8 +14,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/ADUC-Create-A-Share-Folder-Using-Server-Manager">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Create A Share Folder Using Server Manager</strong>
+  <a href="https://github.com/">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Server Manager – Create A Share Folder</strong>
   </a>
   <br/>
 </li>
