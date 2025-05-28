@@ -1,2 +1,54 @@
-# Active-Directory-RSAT
-My Active Directory and RSAT projects
+<h1>
+  <a href="https://www.linkedin.com/in/rashadhagen/">
+    <img src="https://i.imgur.com/bYUDnOO.png" alt="LinkedIn" width="42px" />
+  </a> 
+  <span style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">Active Directory & RSAT:</span> 
+  <br/>
+</h1>
+
+
+<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
+  ACTIVE DIRECTORY & RSAT
+</strong>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/ADUC-Create-A-Share-Folder-Using-Server-Manager">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Create A Share Folder Using Server Manager</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/ADUC-Add-A-User-To-A-Security-Or-Distribution-Group">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Add A User To A Security Or Distribution Group</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Contact-Group-Printer-Shared-Folder-Organizational-Unit-Common-Que">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Find: Computer, User, Contact, Group, Printer, Shared Folder, Organizational Unit, Common Queries</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/ADUC-Give-Delegation-Of-Control-To-A-User-Or-Group-To-Have-Administrative-Privileges">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Give Delegation Of Control To A User Or Group To Have Administrative Privileges (EX: To Be Able To Reset Passwords For Other Users)</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
